@@ -23,6 +23,10 @@ sampleMean
 theoreticalMean
 ```
 
+Sample mean: `r sampleMean`
+
+Theoretical mean: `r theoreticalMean`
+
 2. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution.
 
 ```{r}
@@ -32,10 +36,8 @@ variance
 theoreticalVariance
 ```
 
-Sample mean: `r sampleMean`
-Theoretical mean: `r theoreticalMean`
-
 Variance of the distibution: `r variance` 
+
 Theoretical Variance : `r theoreticalVariance`
 
 3. Show that the distribution is approximately normal.
